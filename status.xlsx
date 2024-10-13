@@ -1,0 +1,74 @@
+  <ping>
+    <host>google.com</host>
+    <result><![CDATA[PING google.com (142.250.195.14): 56 data bytes
+64 bytes from 142.250.195.14: icmp_seq=0 ttl=118 time=8.024 ms
+64 bytes from 142.250.195.14: icmp_seq=1 ttl=118 time=5.572 ms
+64 bytes from 142.250.195.14: icmp_seq=2 ttl=118 time=6.365 ms
+64 bytes from 142.250.195.14: icmp_seq=3 ttl=118 time=7.385 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.572/6.836/8.024/0.940 ms]]></result>
+  </ping>
+  <ping>
+    <host>x.com</host>
+    <result><![CDATA[PING x.com (104.244.42.1): 56 data bytes
+64 bytes from 104.244.42.1: icmp_seq=0 ttl=53 time=153.080 ms
+64 bytes from 104.244.42.1: icmp_seq=1 ttl=53 time=153.075 ms
+64 bytes from 104.244.42.1: icmp_seq=2 ttl=53 time=154.368 ms
+64 bytes from 104.244.42.1: icmp_seq=3 ttl=53 time=155.640 ms
+
+--- x.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 153.075/154.041/155.640/1.063 ms]]></result>
+  </ping>
+  <ping>
+    <host>facebook.com</host>
+    <result><![CDATA[PING facebook.com (163.70.145.35): 56 data bytes
+64 bytes from 163.70.145.35: icmp_seq=0 ttl=56 time=25.662 ms
+64 bytes from 163.70.145.35: icmp_seq=1 ttl=56 time=7.309 ms
+64 bytes from 163.70.145.35: icmp_seq=2 ttl=56 time=5.775 ms
+64 bytes from 163.70.145.35: icmp_seq=3 ttl=56 time=6.519 ms
+
+--- facebook.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.775/11.316/25.662/8.300 ms]]></result>
+  </ping>
+  <ping>
+    <host>pradeepsahu.in</host>
+    <result><![CDATA[]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[ping: cannot resolve : Unknown host]]></result>
+  </ping>
+  <ping>

@@ -1,0 +1,44 @@
+  <ping>
+    <host>google.com</host>
+    <result><![CDATA[PING google.com (142.250.195.14): 56 data bytes
+64 bytes from 142.250.195.14: icmp_seq=0 ttl=118 time=41.530 ms
+64 bytes from 142.250.195.14: icmp_seq=1 ttl=118 time=14.640 ms
+64 bytes from 142.250.195.14: icmp_seq=2 ttl=118 time=10.048 ms
+64 bytes from 142.250.195.14: icmp_seq=3 ttl=118 time=5.453 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.453/17.918/41.530/14.014 ms]]></result>
+  </ping>
+  <ping>
+    <host>x.com</host>
+    <result><![CDATA[PING x.com (104.244.42.1): 56 data bytes
+64 bytes from 104.244.42.1: icmp_seq=0 ttl=53 time=152.455 ms
+64 bytes from 104.244.42.1: icmp_seq=1 ttl=53 time=152.457 ms
+64 bytes from 104.244.42.1: icmp_seq=2 ttl=53 time=153.717 ms
+64 bytes from 104.244.42.1: icmp_seq=3 ttl=53 time=152.374 ms
+
+--- x.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 152.374/152.751/153.717/0.559 ms]]></result>
+  </ping>
+  <ping>
+    <host>facebook.com</host>
+    <result><![CDATA[PING facebook.com (157.240.198.35): 56 data bytes
+64 bytes from 157.240.198.35: icmp_seq=0 ttl=56 time=6.291 ms
+64 bytes from 157.240.198.35: icmp_seq=1 ttl=56 time=5.885 ms
+64 bytes from 157.240.198.35: icmp_seq=2 ttl=56 time=67.399 ms
+64 bytes from 157.240.198.35: icmp_seq=3 ttl=56 time=13.819 ms
+
+--- facebook.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.885/23.349/67.399/25.628 ms]]></result>
+  </ping>
+  <ping>
+    <host>pradeepsahu.in</host>
+    <result><![CDATA[]]></result>
+  </ping>
+  <ping>
+    <host></host>
+    <result><![CDATA[]]></result>
+  </ping>
